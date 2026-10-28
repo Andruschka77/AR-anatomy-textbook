@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b984768e65fc8d94487fc10d1a9bb4f2, type: 3}
+  m_Name: Model_uterus
+  m_EditorClassIdentifier: 
+  modelId: uterus
+  titleRu: "\u041C\u0430\u0442\u043A\u0430"
+  icon: {fileID: 0}
+  arPrefab: {fileID: 129057301880652199, guid: 50a3dc2d12eb3c14eba2a01dc70798a8, type: 3}
+  partsList:
+  - {fileID: 11400000, guid: 307c63e7da21ce5428b31b57955e0052, type: 2}
+  - {fileID: 11400000, guid: 3862a75430816424389ab14a6ba85f11, type: 2}
+  - {fileID: 11400000, guid: a96ceb040fcb4a741881aa32d942d038, type: 2}
+  - {fileID: 11400000, guid: 6f97409db74e5b94480b3d74bb51cc5a, type: 2}
+  defaultSpawnScale: 1
+  supportsPulsation: 0
+  defaultBPM: 75

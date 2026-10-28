@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b984768e65fc8d94487fc10d1a9bb4f2, type: 3}
+  m_Name: Model_Brain
+  m_EditorClassIdentifier: 
+  modelId: brain_full
+  titleRu: "\u0413\u043E\u043B\u043E\u0432\u043D\u043E\u0439 \u043C\u043E\u0437\u0433"
+  icon: {fileID: 0}
+  arPrefab: {fileID: 8628112217209001990, guid: 62cbac276b507a3439884ac5a1a3be3f, type: 3}
+  partsList:
+  - {fileID: 11400000, guid: b1b0377e768996441ad5f6bf106c0de9, type: 2}
+  - {fileID: 11400000, guid: 9a1101b3901c7d747ac12e56febd03bd, type: 2}
+  - {fileID: 11400000, guid: 662d0ef712f9cf34a9dcacf814cab62e, type: 2}
+  - {fileID: 11400000, guid: 0a883522903457c41a97570197ed064a, type: 2}
+  - {fileID: 11400000, guid: e4d0ab18dfc4f764693b5cd6e3c55c3f, type: 2}
+  - {fileID: 11400000, guid: d23f72552f3ce344982325f02acca2cc, type: 2}
+  defaultSpawnScale: 1
+  supportsPulsation: 0
+  defaultBPM: 75

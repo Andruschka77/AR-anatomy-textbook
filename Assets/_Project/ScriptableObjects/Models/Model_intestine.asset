@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b984768e65fc8d94487fc10d1a9bb4f2, type: 3}
+  m_Name: Model_intestine
+  m_EditorClassIdentifier: 
+  modelId: intestine
+  titleRu: "\u041A\u0438\u0448\u0435\u0447\u043D\u0438\u043A"
+  icon: {fileID: 0}
+  arPrefab: {fileID: 5019048696544164076, guid: 63d3c2e6f7decce42921a6d9025722d2, type: 3}
+  partsList:
+  - {fileID: 11400000, guid: b11e302783e5a83439cf253a5effc9cb, type: 2}
+  - {fileID: 11400000, guid: 9530adc64843f7e4495014b7b29fd2da, type: 2}
+  - {fileID: 11400000, guid: 4a2ee7b4fcebef540b7c7d729dd1a5f2, type: 2}
+  - {fileID: 11400000, guid: 7b71ec50e0c616a42bb1e5403bc94efc, type: 2}
+  - {fileID: 11400000, guid: b6bd7df46740f70449583b6a1fedfb57, type: 2}
+  - {fileID: 11400000, guid: e71e2edc39ab1d94fb4fbfe4579024da, type: 2}
+  - {fileID: 11400000, guid: d35c2a9b18ed6874ba49b0eaf457ac07, type: 2}
+  defaultSpawnScale: 1
+  supportsPulsation: 0
+  defaultBPM: 75

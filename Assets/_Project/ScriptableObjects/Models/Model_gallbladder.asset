@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b984768e65fc8d94487fc10d1a9bb4f2, type: 3}
+  m_Name: Model_gallbladder
+  m_EditorClassIdentifier: 
+  modelId: gallbladder
+  titleRu: "\u0416\u0435\u043B\u0447\u043D\u044B\u0439 \u043F\u0443\u0437\u044B\u0440\u044C"
+  icon: {fileID: 0}
+  arPrefab: {fileID: 3420447288242435664, guid: 27a098b4f90d4774fbe1971240486d52, type: 3}
+  partsList:
+  - {fileID: 11400000, guid: f964a243188b165478e5df6f7bba2a86, type: 2}
+  - {fileID: 11400000, guid: 97433e33ba0d3d24f8d076def35ffa12, type: 2}
+  - {fileID: 11400000, guid: e6ab2973257dfe740b7d334eee00451e, type: 2}
+  - {fileID: 11400000, guid: 8365f0090f68305499175a05323a6907, type: 2}
+  defaultSpawnScale: 1
+  supportsPulsation: 0
+  defaultBPM: 75

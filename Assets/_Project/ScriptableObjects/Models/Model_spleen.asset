@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b984768e65fc8d94487fc10d1a9bb4f2, type: 3}
+  m_Name: Model_spleen
+  m_EditorClassIdentifier: 
+  modelId: spleen
+  titleRu: "\u0421\u0435\u043B\u0435\u0437\u0435\u043D\u043A\u0430"
+  icon: {fileID: 0}
+  arPrefab: {fileID: 7791174184123601522, guid: 9372d98f40095404ba01a7c0af21ba9f, type: 3}
+  partsList:
+  - {fileID: 11400000, guid: 2a8a841b4e2f7ba4dbaa4038cd02c058, type: 2}
+  - {fileID: 11400000, guid: 20882e9d1708d8244812b306585326c8, type: 2}
+  - {fileID: 11400000, guid: 089aaee9f3d26e34998f1f77a6ff9513, type: 2}
+  defaultSpawnScale: 1
+  supportsPulsation: 0
+  defaultBPM: 75

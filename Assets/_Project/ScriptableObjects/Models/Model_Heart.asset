@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b984768e65fc8d94487fc10d1a9bb4f2, type: 3}
+  m_Name: Model_Heart
+  m_EditorClassIdentifier: 
+  modelId: heart_full
+  titleRu: "\u0421\u0435\u0440\u0434\u0446\u0435 \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u0430"
+  icon: {fileID: 0}
+  arPrefab: {fileID: 1178863180808551059, guid: 6d6949b426a344046b3cf9d56fa48a77, type: 3}
+  partsList:
+  - {fileID: 11400000, guid: c0d0234b10ebb954f969adb850df3432, type: 2}
+  - {fileID: 11400000, guid: 5a99ba25b6860c6489e4cc33ff654614, type: 2}
+  - {fileID: 11400000, guid: 891c80f9cf7403046abdd0dd3132b474, type: 2}
+  - {fileID: 11400000, guid: 735e42caec9a9eb4ba8f607fd96fedf0, type: 2}
+  - {fileID: 11400000, guid: eb1693d52409f2a4d83a1fe84fbdb05a, type: 2}
+  - {fileID: 11400000, guid: 56f35381dc05b624ca80146a574e64e6, type: 2}
+  - {fileID: 11400000, guid: 27d3308e12c65384d852c35105bd1a80, type: 2}
+  defaultSpawnScale: 1
+  supportsPulsation: 1
+  defaultBPM: 75

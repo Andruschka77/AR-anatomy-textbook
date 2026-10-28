@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8543a42324bbd204aa6ba4165ff6e11d, type: 3}
+  m_Name: AnatomyDatabase
+  m_EditorClassIdentifier: 
+  availableModels:
+  - {fileID: 11400000, guid: d736b51cddd7abe43ad415e42617ec97, type: 2}
+  - {fileID: 11400000, guid: 3ec1dc7cfed0c404685353f0e127a06d, type: 2}
+  - {fileID: 11400000, guid: 054e4536180a09f4a80a3d2cafb015c2, type: 2}
+  - {fileID: 11400000, guid: 996387ab93c6f3b408cca07cca5a519c, type: 2}
+  - {fileID: 11400000, guid: be80959f172c2af4cb198884614c19af, type: 2}
+  - {fileID: 11400000, guid: f541a10079fb7804dab2e2ffe4a6554e, type: 2}
+  - {fileID: 11400000, guid: 3b2417515550a43459a3abd9bf3eb3b6, type: 2}
+  - {fileID: 11400000, guid: fb5847c5593815b4d9ad9909062bf139, type: 2}
+  - {fileID: 11400000, guid: ac79072f2aba47047a447844e2eea69d, type: 2}
+  - {fileID: 11400000, guid: 52c277fc3348a4c42b4c339150986665, type: 2}
+  - {fileID: 11400000, guid: fd0fd0dafcbaa51488ee5f6740bdd831, type: 2}
+  - {fileID: 11400000, guid: a213e6562e8b2834aba0ffc025e40ce3, type: 2}

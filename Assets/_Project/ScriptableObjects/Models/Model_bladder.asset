@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b984768e65fc8d94487fc10d1a9bb4f2, type: 3}
+  m_Name: Model_bladder
+  m_EditorClassIdentifier: 
+  modelId: bladder
+  titleRu: "\u041C\u043E\u0447\u0435\u0432\u043E\u0439 \u043F\u0443\u0437\u044B\u0440\u044C"
+  icon: {fileID: 0}
+  arPrefab: {fileID: 8719502057630400585, guid: 6fc0c3c4462fdbd4c96cab83edc00163, type: 3}
+  partsList:
+  - {fileID: 11400000, guid: fd9edc8f13855e64bb3976f68541e6c3, type: 2}
+  - {fileID: 11400000, guid: 468088e7e00328c4ebfe9e99966574e7, type: 2}
+  - {fileID: 11400000, guid: 54fb38685224a7d48952aa3a884af1e9, type: 2}
+  defaultSpawnScale: 1
+  supportsPulsation: 0
+  defaultBPM: 75

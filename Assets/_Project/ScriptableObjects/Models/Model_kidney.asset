@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b984768e65fc8d94487fc10d1a9bb4f2, type: 3}
+  m_Name: Model_kidney
+  m_EditorClassIdentifier: 
+  modelId: kidney
+  titleRu: "\u041F\u043E\u0447\u043A\u0438"
+  icon: {fileID: 0}
+  arPrefab: {fileID: 521776588639891858, guid: 60195a598e2a4664ebcf2d8f632e9dd9, type: 3}
+  partsList:
+  - {fileID: 11400000, guid: d6e7179cf32908441809ac8711ba7344, type: 2}
+  - {fileID: 11400000, guid: c642c8360a9889947be6e8c84d39fa7c, type: 2}
+  - {fileID: 11400000, guid: cc0e8bfeef6d1794580b3338823f4eef, type: 2}
+  - {fileID: 11400000, guid: 6356750468501f148b63e51714883c94, type: 2}
+  - {fileID: 11400000, guid: c7fc12c6715929048b50349d907a4ed0, type: 2}
+  - {fileID: 11400000, guid: 23d483db45674934fa6f0046b099db36, type: 2}
+  - {fileID: 11400000, guid: c43fa1d0dc865334cb834b5afe59a22a, type: 2}
+  defaultSpawnScale: 1
+  supportsPulsation: 0
+  defaultBPM: 75

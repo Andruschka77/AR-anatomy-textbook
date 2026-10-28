@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b984768e65fc8d94487fc10d1a9bb4f2, type: 3}
+  m_Name: Model_liver
+  m_EditorClassIdentifier: 
+  modelId: liver
+  titleRu: "\u041F\u0435\u0447\u0435\u043D\u044C"
+  icon: {fileID: 0}
+  arPrefab: {fileID: 1475037492280429150, guid: 3c402cb27cdd85f48867ab7c6e885c90, type: 3}
+  partsList:
+  - {fileID: 11400000, guid: 595f58bb924df014297d689b32e273a7, type: 2}
+  - {fileID: 11400000, guid: d21e0485d21cd984d895db3e2135d390, type: 2}
+  - {fileID: 11400000, guid: 1ab346ddbd2ecb445bddf57e39b63967, type: 2}
+  - {fileID: 11400000, guid: 186781256d9ac5f40858b0ca012d6527, type: 2}
+  defaultSpawnScale: 1
+  supportsPulsation: 0
+  defaultBPM: 75
